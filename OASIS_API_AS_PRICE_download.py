@@ -6,6 +6,7 @@ import io
 import pandas as pd
 import time
 
+#global params
 start_year = 2023
 start_month = 5
 end_year = 2023
